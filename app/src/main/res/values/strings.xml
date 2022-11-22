@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Penyewaan Laptop</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">Spesifikasi \n Processor : intel Core i9 9500K \n Ram : 16 GB /n SSD : 1TB</string>
+    <string name="price">Harga</string>
+    <string name="hargajual">Rp. 175.000 </string>
+
+    <!--    Recycler View-->
+    <string-array name="Laptop">
+        <item>Acer</item>
+        <item>Dell</item>
+        <item>Zenbook</item>
+
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 50.000</item>
+        <item>Rp. 75.000</item>
+        <item>Rp. 125.000</item>
+    </string-array>
+</resources>
